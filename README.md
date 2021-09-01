@@ -1,4 +1,5 @@
 
+
 # DropWizard Demo Application
 
 Welcome to the DropWizard Demo Application !
@@ -111,4 +112,4 @@ Example: 0.0.0.0:**37567**
 * Stop and clean the application:
 ```bash
 docker stop ${CID} && docker rm -v ${CID}
-```
+``` 
